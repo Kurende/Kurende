@@ -35,9 +35,11 @@ I'm always looking for opportunities to learn, collaborate, and create software 
 
 ## 🚀 Current Project
 
-# 📚 LibraCore
+<p align="left">
+  <img src="images/LibraCore_logo.svg" alt="LibraCore Logo" width="100%">
+</p> # LibraCore
 
-A desktop Library Management System designed for rural South African schools with limited infrastructure.
+A desktop Library Management System designed for South African schools with limited IT infrastructure.
 
 ### Features
 
