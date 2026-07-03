@@ -1,9 +1,9 @@
-```markdown
+
 <p align="center">
   <img src="images/banner.png" alt="Kurende Banner" width="100%">
 </p>
 
-<h1 align="center">Hi there, I'm Kurende 👋</h1>
+<h1 align="center">Hi there, I'm Kurende</h1>
 
 <h3 align="center">
 Aspiring Software Engineer
@@ -35,9 +35,11 @@ I'm always looking for opportunities to learn, collaborate, and create software 
 
 ## 🚀 Current Project
 
-# 📚 LibraCore
+<p align="left">
+  <img src="images/LibraCore_logo.svg" alt="LibraCore Logo" width="100%">
+</p> # LibraCore
 
-A desktop Library Management System designed for rural South African schools with limited infrastructure.
+A desktop Library Management System designed for South African schools with limited IT infrastructure.
 
 ### Features
 
@@ -170,5 +172,5 @@ More exciting projects are coming soon!
 > *"Building robust software solutions for real-world problems."*
 
 </p>
-```
+
 
