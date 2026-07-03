@@ -1,4 +1,4 @@
-```markdown
+
 <p align="center">
   <img src="images/banner.png" alt="Kurende Banner" width="100%">
 </p>
@@ -170,5 +170,5 @@ More exciting projects are coming soon!
 > *"Building robust software solutions for real-world problems."*
 
 </p>
-```
+
 
