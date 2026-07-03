@@ -35,9 +35,10 @@ I'm always looking for opportunities to learn, collaborate, and create software 
 
 ## 🚀 Current Project
 
-<p align="left">
-  <img src="images/LibraCore_logo.svg" alt="LibraCore Logo" width="100%">
-</p> # LibraCore
+<h1>
+  <img src="images/LibraCore_logo.svg" alt="LibraCore Logo" width="40" valign="middle">
+  LibraCore
+</h1>
 
 A desktop Library Management System designed for South African schools with limited IT infrastructure.
 
