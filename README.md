@@ -3,7 +3,7 @@
   <img src="images/banner.png" alt="Kurende Banner" width="100%">
 </p>
 
-<h1 align="center">Hi there, I'm Kurende</h1>
+<h1 align="center">Hi there, I'm Kabelo Bruce Sebashe</h1>
 
 <h3 align="center">
 Aspiring Software Engineer
