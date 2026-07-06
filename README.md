@@ -43,7 +43,7 @@ I'm always looking for opportunities to learn, collaborate, and create software 
 A desktop Library Management System designed for South African schools.
 
 <p align="center">
-  <img src="images/cover.png" alt="LibraCover Dashboard" width="100%">
+  <img src="images/Cover.png" alt="LibraCover Dashboard" width="100%">
 </p>
 
 ### Features
