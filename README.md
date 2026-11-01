@@ -19,7 +19,7 @@ Building robust software solutions for real-world problems.
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a **BSc Informatics student** from South Africa with a passion for building reliable software using modern C++ and Qt.
 
@@ -33,7 +33,7 @@ I'm always looking for opportunities to learn, collaborate, and create software 
 
 ---
 
-## 🚀 Current Project
+##  Current Project
 
 <h1>
   <img src="images/LibraCore_logo.svg" alt="LibraCore Logo" width="40" valign="middle">
@@ -48,18 +48,18 @@ A desktop Library Management System designed for South African schools.
 
 ### Features
 
-- 🔐 User Authentication
-- 👨‍🎓 Learner Management
-- 📚 Book Management
-- 📖 Borrow & Return Management
-- ❌ Lost Book Tracking
-- 💳 Payment Processing
-- 📊 Dashboard & Reports
-- 📝 Activity Logging
+-  User Authentication
+-  Learner Management
+-  Book Management
+-  Borrow & Return Management
+-  Lost Book Tracking
+-  Payment Processing
+-  Dashboard & Reports
+-  Activity Logging
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -93,15 +93,15 @@ A desktop Library Management System designed for South African schools.
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
-- 🌐 HTML5
-- 🎨 CSS3
-- ⚡ JavaScript
+-  HTML5
+-  CSS3
+-  JavaScript
 
 ---
 
-## 🎯 Career Goals
+##  Career Goals
 
 - Build production-quality software
 - Master Modern C++
@@ -112,7 +112,7 @@ A desktop Library Management System designed for South African schools.
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <p align="center">
 
@@ -124,7 +124,7 @@ A desktop Library Management System designed for South African schools.
 
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <p align="center">
 
@@ -134,7 +134,7 @@ A desktop Library Management System designed for South African schools.
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <p align="center">
 
@@ -144,9 +144,9 @@ A desktop Library Management System designed for South African schools.
 
 ---
 
-## 📌 Featured Repositories
+##  Featured Repositories
 
-⭐ LibraCore
+ LibraCore
 
 Desktop Library Management System built using C++, Qt, SQLite and SQL.
 
@@ -154,7 +154,7 @@ More exciting projects are coming soon!
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kabelo-sebashe-kurende/)
 
@@ -162,7 +162,7 @@ More exciting projects are coming soon!
 
 ---
 
-## 👀 Profile Views
+##  Profile Views
 
 <p align="center">
 
