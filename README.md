@@ -6,7 +6,7 @@
 <h1 align="center">Hi there, I'm Kabelo Bruce Sebashe</h1>
 
 <h3 align="center">
-Aspiring Software Engineer
+Junior Software Engineer
 </h3>
 
 <p align="center">
@@ -21,7 +21,7 @@ Building robust software solutions for real-world problems.
 
 ##  About Me
 
-I'm a **BSc Informatics student** from South Africa with a passion for building reliable software using modern C++ and Qt.
+I'm a Final year (2026 ) **BSc Informatics student** from South Africa with a passion for building reliable software using modern C++ and Qt.
 
 I enjoy designing software that solves practical problems through clean user interfaces, structured code, and efficient database systems.
 
@@ -107,7 +107,6 @@ A desktop Library Management System designed for South African schools.
 - Master Modern C++
 - Become an expert in Qt Framework
 - Learn Full-Stack Web Development
-- Contribute to Open Source
 - Build software that improves people's lives
 
 ---
